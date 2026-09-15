@@ -1,0 +1,22 @@
+# Model weights
+*.pt
+*.pth
+
+# Dataset (downloaded by the training notebook, not meant for the repo)
+data/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Editor / tooling
+.claude/
+.vscode/
+.idea/
